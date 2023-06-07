@@ -1,0 +1,27 @@
+{
+	"name": "Fraction Mining | B2B FM KDA 83THs NFT",
+	"description": "Fraction Mining - Compute as a Service KDA NFT. These Crypto Collectibles are Non-Fungible Tokens. Base utility includes real-world emission mitigation of green house gases. Additionally, when held by B2B Fraction Mining Members, they provide token-gated access to web3/web5 services from FM's decentralized off-grid hosting platform.",
+	"image": "ipfs://QmeUpegSYQn1gfWia9XTUtpsDhbrqQn7HUW6zy8qCGCEsw/fm-kda-ka3.png",
+	"animation_url": "ipfs://QmeUpegSYQn1gfWia9XTUtpsDhbrqQn7HUW6zy8qCGCEsw/fm-kda-ka3.mp4",
+	"animation_url_hd": "ipfs://QmeUpegSYQn1gfWia9XTUtpsDhbrqQn7HUW6zy8qCGCEsw/fm-kda-ka3_hd.png",
+	"external_link": "https://fractionmining.com",
+	"linkpop": "https://linkpop.com/FractionMining",
+	"fm_type": "Compute as a Service",
+	"b2b_partner": "FM B2B",
+	"b2b_url": "https://www.fractionmining.io/business",
+	"qty": "83",
+	"hashrate": "THs",
+	"type": "KDA",
+	"attributes": [
+		{
+			"display_type": "number",
+			"trait_type": "THs",
+			"max_value": 83,
+			"value": 83
+		},
+		{
+			"trait_type": "FM B2B NFT",
+			"value": "KDA"
+		}
+	]
+}

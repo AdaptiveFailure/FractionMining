@@ -1,0 +1,27 @@
+{
+    "name": "Fraction Mining | FM KDA NFT",
+    "description": "Fraction Mining - Compute as a Service KDA NFT. These Crypto Collectibles are Non-Fungible Tokens. Base utility includes real-world emission mitigation of green house gases. Additionally, when held by Fraction Mining Members, they provide token-gated access to web3/web5 services from FM's decentralized off-grid hosting platform.",
+    "image": "ipfs://QmeUpegSYQn1gfWia9XTUtpsDhbrqQn7HUW6zy8qCGCEsw/fm-kda-ka3.png",
+    "animation_url": "ipfs://QmeUpegSYQn1gfWia9XTUtpsDhbrqQn7HUW6zy8qCGCEsw/fm-kda-ka3.mp4",
+    "animation_url_hd": "ipfs://QmeUpegSYQn1gfWia9XTUtpsDhbrqQn7HUW6zy8qCGCEsw/fm-kda-ka3_hd.png",
+    "qr": "ipfs://QmbjLLKRhcGgyufe53bDmoeBPiWx9MURWdYyvnrbTAk1F1/fm-qrcode_v2.png",
+    "qr_pixel": "ipfs://QmbjLLKRhcGgyufe53bDmoeBPiWx9MURWdYyvnrbTAk1F1/fm-qrcode.png",
+    "external_link": "https://fractionmining.com",
+    "linkpop": "https://linkpop.com/FractionMining",
+    "fm_type": "Compute as a Service",
+    "qty": "4",
+    "hashrate": "THs",
+    "type": "KDA",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "THs",
+            "max_value": 20,
+            "value": 4
+        },
+        {
+            "trait_type": "FM NFT",
+            "value": "KDA"
+        }
+    ]
+}

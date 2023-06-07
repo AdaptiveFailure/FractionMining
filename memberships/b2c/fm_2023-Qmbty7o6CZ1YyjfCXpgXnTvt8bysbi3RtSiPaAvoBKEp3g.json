@@ -1,0 +1,33 @@
+{
+  "name": "Fraction Mining | 2023 Membership",
+  "description": "Fraction Mining 2023 Membership (Testnet)",
+  "image": "ipfs://QmP5f94B1KLoPcM9FskjmW14UDDoJa96V9TZeKivdkVJBW/fm-2023.jpg",
+  "qr": "ipfs://QmP5f94B1KLoPcM9FskjmW14UDDoJa96V9TZeKivdkVJBW/fm-2023-qr.jpg",
+  "external_link": "https://fractionmining.com",
+  "linkpop": "https://linkpop.com/FractionMining",
+  "member": "All Access Fraction Mining Member",
+  "vanity": "OG Fraction Mining Member",
+  "year": "2023",
+  "attributes": [
+    {
+      "trait_type": "FM BTC",
+      "contract_name": "btc",
+      "chain_id": "",
+      "chain_type": "btc",
+      "value": "1Gq1Ft2eFNK43dGg3udRDSnWrGfrKakUw3"
+    },
+    {
+      "trait_type": "FM KDA",
+      "contract_name": "kda",
+      "chain_id": "0",
+      "chain_type": "kda",
+      "value": "k:1ca05615e58beab0770ce65bcd295c115ac0827b609921ee46394a71450e87cf",
+      "keyset": {
+        "pred": "keys-all",
+        "keys": [
+          "1104a832d5395089d31d289c9f12977f0f08679bd649d58888d05eedca64f3d9"
+        ]
+      }
+    }
+  ]
+}

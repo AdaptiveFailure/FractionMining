@@ -1,0 +1,27 @@
+{
+  "name": "Fraction Mining | B2B FM BTC 110 NFT",
+  "description": "Fraction Mining - Compute as a Service BTC NFT. These Crypto Collectibles are Non-Fungible Tokens. Base utility includes real-world emission mitigation of green house gases. Additionally, when held by B2B Fraction Mining Members, they provide token-gated access to web3/web5 services from FM's decentralized off-grid hosting platform.",
+  "image": "ipfs://QmbjLLKRhcGgyufe53bDmoeBPiWx9MURWdYyvnrbTAk1F1/fm-btc-s19.png",
+  "animation_url": "ipfs://QmbjLLKRhcGgyufe53bDmoeBPiWx9MURWdYyvnrbTAk1F1/fm-btc-s19.mp4",
+  "animation_url_hd": "ipfs://QmbjLLKRhcGgyufe53bDmoeBPiWx9MURWdYyvnrbTAk1F1/fm-btc-s19_hd.mp4",
+  "qr": "ipfs://QmbjLLKRhcGgyufe53bDmoeBPiWx9MURWdYyvnrbTAk1F1/fm-qrcode_v2.png",
+  "qr_pixel": "ipfs://QmbjLLKRhcGgyufe53bDmoeBPiWx9MURWdYyvnrbTAk1F1/fm-qrcode.png",
+  "external_link": "https://fractionmining.com",
+  "linkpop": "https://linkpop.com/FractionMining",
+  "fm_type": "Compute as a Service",
+  "qty": "110",
+  "hashrate": "THs",
+  "type": "BTC",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "THs",
+      "max_value": 110,
+      "value": 110
+    },
+    {
+      "trait_type": "FM B2B NFT",
+      "value": "BTC"
+    }
+  ]
+}
